@@ -35,7 +35,7 @@ This clock runs in real time using system time with microsecond precision.
 
 1. Clone the repository:
 
-   git clone https://github.com/YOUR_USERNAME/Radial-Ring-Clock.git
+   git clone (https://github.com/mdakilmahmud/Radial-Ring-Clock)
 
 2. Enter the project folder:
 
